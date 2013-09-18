@@ -1,0 +1,5 @@
+D:\MyProjects\TestJobs\Reflection\MyLibrary\bin\Debug\MyLibrary.dll
+D:\MyProjects\TestJobs\Reflection\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\MyProjects\TestJobs\Reflection\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProjects\TestJobs\Reflection\MyLibrary\obj\Debug\MyLibrary.dll
+D:\MyProjects\TestJobs\Reflection\MyLibrary\obj\Debug\MyLibrary.pdb
